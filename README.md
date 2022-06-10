@@ -1,4 +1,4 @@
-# Aplikasi Absen Karyawan
+# <img src="https://img.icons8.com/emoji/48/undefined/man-office-worker.png"/> Aplikasi Absen Karyawan
 
 Aplikasi absen untuk karyawan
 
